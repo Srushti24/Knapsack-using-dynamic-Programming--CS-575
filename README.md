@@ -2,4 +2,9 @@
 Knapsack solution using Dynamic Programming in C.
 
 gcc main.c
+
+
+
+
+
 ./a.out
